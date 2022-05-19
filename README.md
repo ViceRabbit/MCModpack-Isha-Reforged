@@ -17,7 +17,7 @@ A: It mainly depends, though I'd guarantee you'd lose no less than 5-10 frames -
  
 A: Client-side, about ~32 mods; including performance mods, content mods and dependencies. 
 
-**Q: How many mods (per performance) in the server? **                                                   
+**Q: How many mods (per performance) in the server?**                                               
 
 A: ... A lot.
 
