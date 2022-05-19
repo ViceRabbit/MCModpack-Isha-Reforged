@@ -15,7 +15,7 @@ A: It mainly depends, though I'd guarantee you'd lose no less than 5-10 frames -
 
 **Q: How many mods are in this modpack?**
  
-A: Client-side, about ~32 mods; including performance mods, content mods and dependencies. 
+A: Client-side, about ~32 mods; including performance mods, content mods and dependencies. For the client-mods you installed, here's a [list](https://github.com/ViceRabbit/MCModpack-Isha-Reforged/blob/main/modlist/client_sided.md)
 
 **Q: How many mods (per performance) in the server?**                                               
 
