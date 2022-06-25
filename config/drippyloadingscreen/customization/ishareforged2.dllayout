@@ -1,0 +1,52 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = true
+  backgroundimage = screenshots/download.png
+  autoscale_baseheight = 1017
+  renderorder = background
+  autoscale_basewidth = 1920
+  randommode = false
+  scale = 2
+  randomonlyfirsttime = false
+  backgroundcolor = 
+}
+
+customization {
+  x = -5
+  action = editlogo
+  y = -63
+}
+
+customization {
+  x = 15
+  action = editprogressbar
+  y = -80
+}
+
+customization {
+  path = screenshots/mineconishafigure.gif
+  orientation = loading-progress
+  orientation_element = 9c541784-f0ac-412a-8785-b24c8c1f7bec1652751671366
+  x = -71
+  width = 128
+  action = addtexture
+  actionid = fe17eb49-ff12-44ea-977a-9285ad9c249a1652751194330
+  y = -110
+  height = 129
+}
+
+customization {
+  orientation = bottom-centered
+  x = 14
+  width = 500
+  actionid = 9c541784-f0ac-412a-8785-b24c8c1f7bec1652751671366
+  y = -83
+  action = addcustomprogressbar
+  height = 4
+  direction = right
+  barcolor = #FFFFFF
+  backgroundcolor = #5c5c5c80
+}
+
