@@ -1,3 +1,5 @@
+
+
 Minecraft: Isha Reforged is an apparent committed modpack designated for the use of friends; currently being worked by Netherite_Wails13 and ViceRabbit!
 
 ## Expected Release Date: # 1st of July-ish
@@ -7,18 +9,17 @@ The release date will be around the month of June; this is to give us, Vice and 
 
 ### FAQ: 
 
-**Q: What's the average FPS I will get as of a very low-end computer? (eg: i3)**
+**Q: What is this Github Repository for?
 
-A: It mainly depends, but all I can say is that is it should be compact enough to run in a low-end device.
+A: This repository is for people curious to research my modpack, as well as for references for applications like [Pack[OP]Dater](https://github.com/copygirl/PackOPdater) to work.
 
 **Q: How many mods are in this modpack?**
  
-A: Around 50 mods for client, refer to the modlist given in files (json)!
+A: around 50+ mods, performance-wise it is efficient also refer to the [modpack.json](https://github.com/ViceRabbit/MCModpack-Isha-Reforged/blob/main/modpack.json)
 
-**Q: How many mods (per performance) in the server?**                                               
+**Q: How would I install this modpack aside?**
 
-A: EEEEE
+A: by the help of PackOPDater, simply link my repo to the prompt to a fresh new instance, check [Pack[OP]Dater](https://github.com/copygirl/PackOPdater) out!
 
-This modpack will be using the PackOPdater, check it out for it's awesome credibility!
 
 
