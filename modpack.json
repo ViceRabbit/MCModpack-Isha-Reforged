@@ -136,18 +136,90 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/grimoire-of-tetra/download/3836563/file",
       "server": true, "client": true, "optional": false
     }, {            
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
-      "server": true, "client": true, "optional": false
+      "name": "It's the little things", "version": "2.1.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/download/3827582/file",
+      "server": false, "client": true, "optional": false
     }, {           
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "name": "Just Enough Items (JEI)", "version": "9.7.0.209",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/3847103/file",
       "server": true, "client": true, "optional": false
     }, {              
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "name": "Just Zoom [Forge]", "version": "1.0.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge/download/3601619/file",
+      "server": false, "client": true, "optional": false
+    }, {            
+      "name": "Konkrete [Forge]", "version": "1.3.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete/download/3593196/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Krypton Reforged", "version": "0.1.10",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged/download/3819215/file",
+      "server": true, "client": true, "optional": false
+    }, {              
+      "name": "Ksyxis", "version": "1.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ksyxis/download/3502166/file",
       "server": true, "client": true, "optional": false
     }, {            
+      "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]", "version": "1.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/download/3544496/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Moonlight Lib", "version": "1.17.9",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/selene/download/3842421/file",
+      "server": true, "client": true, "optional": false
+    }, {              
+      "name": "mutil", "version": "4.5.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/mutil/download/3788376/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Neat", "version": "1.8-30",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/neat/download/3593906/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Not Enough Animations", "version": "1.6.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/download/3739668/file",
+      "server": false, "client": true, "optional": false
+    }, {              
+      "name": "Options Enforcer", "version": "1.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/options-enforcer/download/3753762/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Quark", "version": "3.2-358",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/quark/download/3840125/file",
+      "server": true, "client": true, "optional": false
+    }, {                        
+      "name": "Radium Reforged", "version": "0.7.10",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged/download/3707226/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Rubidium", "version": "0.5.2a",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/rubidium/download/3749094/file",
+      "server": false, "client": true, "optional": false
+    }, {            
+      "name": "Serene Seasons", "version": "7.0.0.13",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/3693807/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Sit", "version": "1.3.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/sit/download/3723461/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Supplementaries", "version": "1.4.6",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3832545/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "TerraBlender (Forge)", "version": "1.1.0.102",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender/download/3816497/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Tetra", "version": "4.9.3",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Tree Harvester (Forge)", "version": "5.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tree-harvester/download/3693556/file",
+      "server": true, "client": true, "optional": false
+    }, {                
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
@@ -155,13 +227,7 @@
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
-    }, {              
-      
-      
-      
-      
-      
-      
+    }, {                
       
       
       
