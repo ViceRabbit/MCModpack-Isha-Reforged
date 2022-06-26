@@ -1,0 +1,98 @@
+{
+  "name": "Isha Reforged",
+  "version": "1.0.0",
+  "authors": [ "ViceRabbit", "NetheriteWails" ],
+  "mods": [
+    {
+      "name": "Alex's Mobs", "version": "1.18.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
+      "server": true, "client": true, "optional": false
+    }, {
+      "name": "AmbientSounds 5", "version": "5.0.16",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds/download/3738299/file",
+      "server": false, "client": true, "optional": false
+    }, { 
+      "name": "AppleSkin", "version": "2.4.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686482/file",
+      "server": true, "client": true, "optional": false
+    }, {      
+      "name": "Art of Forging: A Tetra Addon", "version": "1.4.6",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon/download/3845250/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Artifacts", "version": "4.0.7",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts/download/3736897/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "AutoRegLib", "version": "1.7-53",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3642382/file",
+      "server": true, "client": true, "optional": false
+    }, {      
+      "name": "Auudio [Forge]", "version": "1.0.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/auudio-forge/download/3754865/file",
+      "server": false, "client": true, "optional": false
+    }, {            
+      "name": "Better Compatibility Checker", "version": "1.1.15",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/download/3846597/file",
+      "server": true, "client": true, "optional": false
+    }, {       
+      "name": "Better Fps - Render Distance[Forge]", "version": "1.5",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/download/3750013/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Biomes O' Plenty", "version": "16.0.0.109",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/3759236/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Blueprint", "version": "1.1.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint/download/3840203/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Chat Heads", "version": "0.6.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads/download/3570677/file",
+      "server": false, "client": true, "optional": false
+    }, {          
+      "name": "Chipped", "version": "1.2.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/chipped/download/3748664/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Citadel", "version": "1.11.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/citadel/download/3783096/file",
+      "server": true, "client": true, "optional": false
+    }, {                
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {                
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {                
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
