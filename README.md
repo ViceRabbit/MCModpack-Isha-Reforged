@@ -4,8 +4,7 @@ Minecraft: Isha Reforged is an apparent committed modpack designated for the use
 
 ## Expected Release Date: # 1st of July-ish
 
-As of the content within this particular modpack, it mostly relies upon performance but balances the modded content; and this is different than other popular modpacks due to them costing huge frame drops for low-end devices - which this modpack is particularly designed for! (And also not to mention, we have very shitty laptops). 
-The release date will be around the month of June; this is to give us, Vice and Wails time to beta test this modpack and ensure performance is to its perfect limits. This is also the perfect month due to us having summer break from school and my graduation occuring; giving us to spend time. 
+Welcome to Minecraft: Isha Reforged! This modpack is solely based off just a simple pack to play with our friends, nothing much interesting! The suited version for this modpack is *1.18.2*, it is recommended to, for low-end devices such as i3-i5 to play at minimum graphics level; or adjust to your needs! We declared the release date to be around 1st of July.
 
 ### FAQ: 
 
