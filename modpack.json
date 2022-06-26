@@ -60,6 +60,82 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/citadel/download/3783096/file",
       "server": true, "client": true, "optional": false
     }, {                
+      "name": "Cloth Config API (Fabric/Forge)", "version": "6.2.62",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/download/3782776/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Collective (Forge)", "version": "4.28",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/collective/download/3822132/file",
+      "server": true, "client": true, "optional": false
+    }, {                
+      "name": "Compat O' Plenty", "version": "1.5.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty/download/3786015/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "Connectivity[Forge/Fabric]", "version": "3.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity/download/3833738/file",
+      "server": true, "client": true, "optional": false
+    }, {                
+      "name": "CraftPresence", "version": "1.8.8",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/download/3669097/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "CreativeCore", "version": "2.6.12",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore/download/3834521/file",
+      "server": false, "client": true, "optional": false
+    }, {        
+      "name": "Curios API (Forge)", "version": "5.0.7.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/curios/download/3841948/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "CustomSkinLoader", "version": "14.13",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/customskinloader/download/3695975/file",
+      "server": false, "client": true, "optional": false
+    }, {        
+      "name": "Ding", "version": "1.3.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ding/download/3548400/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Drippy Loading Screen [Forge]", "version": "1.6.4",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen/download/3837780/file",
+      "server": false, "client": true, "optional": false
+    }, {        
+      "name": "Entity Culling Fabric/Forge", "version": "1.5.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling/download/3743929/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "ExpandAbility", "version": "6.0.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/expandability/download/3678612/file",
+      "server": true, "client": true, "optional": false
+    }, {        
+      "name": "FancyMenu [Forge]", "version": "2.8.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3833651/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "Farmer's Delight", "version": "1.1.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight/download/3834150/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Farsight [Forge]", "version": "1.9",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/farsight/download/3810400/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "FerriteCore (Forge)", "version": "4.2.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore/download/3767288/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "FPS Reducer", "version": "2.0",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer/download/3680770/file",
+      "server": false, "client": true, "optional": false
+    }, {           
+      "name": "GraveStone Mod", "version": "1.0.1",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/download/3694403/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Grimoire of Tetra", "version": "1.2.2",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/grimoire-of-tetra/download/3836563/file",
+      "server": true, "client": true, "optional": false
+    }, {            
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
@@ -67,7 +143,11 @@
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
-    }, {                
+    }, {              
+      "name": "AppleCore", "version": "1.1.0",
+      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "server": true, "client": true, "optional": false
+    }, {            
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
@@ -75,16 +155,7 @@
       "name": "AppleCore", "version": "1.1.0",
       "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
       "server": true, "client": true, "optional": false
-    }, {                
-      
-      
-      
-      
-      
-      
-      
-      
-      
+    }, {              
       
       
       
