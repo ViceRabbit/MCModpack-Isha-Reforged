@@ -213,23 +213,16 @@
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Tetra", "version": "4.9.3",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/tetra/download/3844400/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Tree Harvester (Forge)", "version": "5.1",
       "url": "https://www.curseforge.com/minecraft/mc-mods/tree-harvester/download/3693556/file",
       "server": true, "client": true, "optional": false
     }, {                
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
+      "name": "Xaero's Minimap", "version": "22.9.3",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3835773/file",
       "server": true, "client": true, "optional": false
-    }, {           
-      "name": "AppleCore", "version": "1.1.0",
-      "url": "http://minecraft.curseforge.com/mc-mods/224472-applecore/files/2225648/download",
-      "server": true, "client": true, "optional": false
-    }, {                
-      
-      
-      
-      
-      
+    }
+  ]
+}      
