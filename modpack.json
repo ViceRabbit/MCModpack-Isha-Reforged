@@ -5,222 +5,277 @@
   "mods": [
     {
       "name": "Alex's Mobs", "version": "1.18.5",
+      "p_id": "426558",
       "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
       "server": true, "client": true, "optional": false
     }, {
       "name": "AmbientSounds 5", "version": "5.0.16",
+      "p_id": "254284",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds/download/3738299/file",
       "server": false, "client": true, "optional": false
     }, { 
       "name": "AppleSkin", "version": "2.4.0",
+      "p_id": "248787",
       "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686482/file",
       "server": true, "client": true, "optional": false
     }, {      
       "name": "Art of Forging: A Tetra Addon", "version": "1.4.6",
+      "p_id": "596955",
       "url": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon/download/3845250/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Artifacts", "version": "4.0.7",
+      "p_id": "312353",
       "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts/download/3736897/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "AutoRegLib", "version": "1.7-53",
+      "p_id": "250363",
       "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3642382/file",
       "server": true, "client": true, "optional": false
     }, {      
       "name": "Auudio [Forge]", "version": "1.0.3",
+      "p_id": "606159",
       "url": "https://www.curseforge.com/minecraft/mc-mods/auudio-forge/download/3754865/file",
       "server": false, "client": true, "optional": false
     }, {            
       "name": "Better Compatibility Checker", "version": "1.1.15",
+      "p_id": "551894",
       "url": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/download/3846597/file",
       "server": true, "client": true, "optional": false
     }, {       
       "name": "Better Fps - Render Distance[Forge]", "version": "1.5",
+      "p_id": "551520",
       "url": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance/download/3750013/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Biomes O' Plenty", "version": "16.0.0.109",
+      "p_id": "220318",
       "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/3759236/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Blueprint", "version": "1.1.0",
+      "p_id": "382216",
       "url": "https://www.curseforge.com/minecraft/mc-mods/blueprint/download/3840203/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Chat Heads", "version": "0.6.1",
+      "p_id": "407206",
       "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads/download/3850450/file",
       "server": false, "client": true, "optional": false
     }, {          
       "name": "Chipped", "version": "1.2.1",
+      "p_id": "456956",
       "url": "https://www.curseforge.com/minecraft/mc-mods/chipped/download/3748664/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Citadel", "version": "1.11.3",
+      "p_id": "331936",
       "url": "https://www.curseforge.com/minecraft/mc-mods/citadel/download/3783096/file",
       "server": true, "client": true, "optional": false
     }, {                
       "name": "Cloth Config API (Fabric/Forge)", "version": "6.2.62",
+      "p_id": "348521",
       "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/download/3782776/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Collective (Forge)", "version": "4.28",
+      "p_id": "342584",
       "url": "https://www.curseforge.com/minecraft/mc-mods/collective/download/3822132/file",
       "server": true, "client": true, "optional": false
     }, {                
       "name": "Compat O' Plenty", "version": "1.5.1",
+      "p_id": "558850",
       "url": "https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty/download/3786015/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Connectivity[Forge/Fabric]", "version": "3.2",
+      "p_id": "470193"
       "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity/download/3833738/file",
       "server": true, "client": true, "optional": false
     }, {                
       "name": "CraftPresence", "version": "1.8.8",
+      "p_id": "297038",
       "url": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/download/3669097/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "CreativeCore", "version": "2.6.12",
+      "p_id": "257814",
       "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore/download/3834521/file",
       "server": false, "client": true, "optional": false
     }, {        
       "name": "Curios API (Forge)", "version": "5.0.7.1",
+      "p_id": "309927",
       "url": "https://www.curseforge.com/minecraft/mc-mods/curios/download/3841948/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "CustomSkinLoader", "version": "14.13",
+      "p_id": "286924",
       "url": "https://www.curseforge.com/minecraft/mc-mods/customskinloader/download/3695975/file",
       "server": false, "client": true, "optional": false
     }, {        
       "name": "Ding", "version": "1.3.0",
+      "p_id": "231275",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ding/download/3548400/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Drippy Loading Screen [Forge]", "version": "1.6.4",
+      "p_id": "511770",
       "url": "https://www.curseforge.com/minecraft/mc-mods/drippy-loading-screen/download/3837780/file",
       "server": false, "client": true, "optional": false
     }, {        
       "name": "Entity Culling Fabric/Forge", "version": "1.5.1",
+      "p_id": "448233",
       "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling/download/3743929/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "ExpandAbility", "version": "6.0.0",
+      "p_id": "465066",
       "url": "https://www.curseforge.com/minecraft/mc-mods/expandability/download/3678612/file",
       "server": true, "client": true, "optional": false
     }, {        
       "name": "FancyMenu [Forge]", "version": "2.9.0",
+      "p_id": "367706",
       "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3850527/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Farmer's Delight", "version": "1.1.2",
+      "p_id": "398521",
       "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight/download/3834150/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Farsight [Forge]", "version": "1.9",
+      "p_id": "495693",
       "url": "https://www.curseforge.com/minecraft/mc-mods/farsight/download/3810400/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "FerriteCore (Forge)", "version": "4.2.1",
+      "p_id": "429235",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore/download/3767288/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "FPS Reducer", "version": "2.0",
+      "p_id": "280294",
       "url": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer/download/3680770/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "GraveStone Mod", "version": "1.0.1",
+      "p_id": "238551",
       "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/download/3694403/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Grimoire of Tetra", "version": "1.2.2",
+      "p_id": "597869",
       "url": "https://www.curseforge.com/minecraft/mc-mods/grimoire-of-tetra/download/3836563/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "It's the little things", "version": "2.1.2",
+      "p_id": "232791",
       "url": "https://www.curseforge.com/minecraft/mc-mods/its-the-little-things/download/3827582/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Just Enough Items (JEI)", "version": "9.7.0.209",
+      "p_id": "238222",
       "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/3847103/file",
       "server": true, "client": true, "optional": false
     }, {              
       "name": "Just Zoom [Forge]", "version": "1.0.1",
+      "p_id": "561885",
       "url": "https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge/download/3601619/file",
       "server": false, "client": true, "optional": false
     }, {            
       "name": "Konkrete [Forge]", "version": "1.3.3",
+      "p_id": "410295",
       "url": "https://www.curseforge.com/minecraft/mc-mods/konkrete/download/3593196/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Krypton Reforged", "version": "0.1.10",
+      "p_id": "549394",
       "url": "https://www.curseforge.com/minecraft/mc-mods/krypton-reforged/download/3819215/file",
       "server": true, "client": true, "optional": false
     }, {              
       "name": "Ksyxis", "version": "1.1",
+      "p_id": "537533",
       "url": "https://www.curseforge.com/minecraft/mc-mods/ksyxis/download/3502166/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]", "version": "1.0",
+      "p_id": "460819",
       "url": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/download/3544496/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Moonlight Lib", "version": "1.17.9",
+      "p_id": "499980",
       "url": "https://www.curseforge.com/minecraft/mc-mods/selene/download/3842421/file",
       "server": true, "client": true, "optional": false
     }, {              
       "name": "mutil", "version": "4.5.0",
+      "p_id": "351914",
       "url": "https://www.curseforge.com/minecraft/mc-mods/mutil/download/3788376/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Neat", "version": "1.8-30",
+      "p_id": "238372",
       "url": "https://www.curseforge.com/minecraft/mc-mods/neat/download/3593906/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Not Enough Animations", "version": "1.6.0",
+      "p_id": "433760",
       "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations/download/3739668/file",
       "server": false, "client": true, "optional": false
     }, {              
       "name": "Options Enforcer", "version": "1.4",
+      "p_id": "499018",
       "url": "https://www.curseforge.com/minecraft/mc-mods/options-enforcer/download/3753762/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Quark", "version": "3.2-358",
+      "p_id": "243121",
       "url": "https://www.curseforge.com/minecraft/mc-mods/quark/download/3840125/file",
       "server": true, "client": true, "optional": false
     }, {                        
       "name": "Radium Reforged", "version": "0.7.10",
+      "p_id": "570017",
       "url": "https://www.curseforge.com/minecraft/mc-mods/radium-reforged/download/3707226/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Rubidium", "version": "0.5.2a",
+      "p_id": "574856",
       "url": "https://www.curseforge.com/minecraft/mc-mods/rubidium/download/3749094/file",
       "server": false, "client": true, "optional": false
     }, {            
       "name": "Serene Seasons", "version": "7.0.0.13",
+      "p_id": "291874",
       "url": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/3693807/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Sit", "version": "1.3.2",
+      "p_id": "278717",
       "url": "https://www.curseforge.com/minecraft/mc-mods/sit/download/3723461/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Supplementaries", "version": "1.4.6",
+      "p_id": "412082",
       "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3832545/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "TerraBlender (Forge)", "version": "1.1.0.102",
+      "p_id": "563928",
       "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender/download/3816497/file",
       "server": true, "client": true, "optional": false
     }, {            
       "name": "Tetra", "version": "4.9.3",
+      "p_id": "289712",
       "url": "https://www.curseforge.com/minecraft/mc-mods/tetra/download/3844400/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Tree Harvester (Forge)", "version": "5.1",
+      "p_id": "367178",
       "url": "https://www.curseforge.com/minecraft/mc-mods/tree-harvester/download/3693556/file",
       "server": true, "client": true, "optional": false
     }, {                
       "name": "Xaero's Minimap", "version": "22.9.3",
+      "p_id": "263420",
       "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3835773/file",
       "server": true, "client": true, "optional": false
     }
