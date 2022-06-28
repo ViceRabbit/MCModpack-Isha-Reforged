@@ -90,7 +90,7 @@
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Connectivity[Forge/Fabric]", "version": "3.2",
-      "p_id": "470193"
+      "p_id": "470193",
       "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity/download/3833738/file",
       "server": true, "client": true, "optional": false
     }, {                
