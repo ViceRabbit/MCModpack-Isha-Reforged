@@ -6,7 +6,7 @@
     {
       "name": "Alex's Mobs", "version": "1.18.5",
       "p_id": "426558",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3853078/file",
       "server": true, "client": true, "optional": false
     }, {
       "name": "AmbientSounds 5", "version": "5.0.16",
@@ -136,7 +136,7 @@
     }, {        
       "name": "FancyMenu [Forge]", "version": "2.9.0",
       "p_id": "367706",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3850527/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3851940/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Farmer's Delight", "version": "1.1.2",
@@ -256,7 +256,7 @@
     }, {            
       "name": "Supplementaries", "version": "1.4.6",
       "p_id": "412082",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3832545/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3853896/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "TerraBlender (Forge)", "version": "1.1.0.102",
@@ -276,7 +276,7 @@
     }, {                
       "name": "Xaero's Minimap", "version": "22.9.3",
       "p_id": "263420",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3835773/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3851498/file",
       "server": true, "client": true, "optional": false
     }
   ]
