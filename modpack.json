@@ -214,9 +214,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/mutil/download/3788376/file",
       "server": true, "client": true, "optional": false
     }, {            
-      "name": "Neat", "version": "1.8-30",
+      "name": "Neat", "version": "1.8-31",
       "p_id": "238372",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/neat/download/3593906/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/neat/download/3859673/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Not Enough Animations", "version": "1.6.0",
