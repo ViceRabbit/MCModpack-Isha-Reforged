@@ -11,7 +11,7 @@ Welcome to Minecraft: Isha Reforged! This modpack is solely based off just a sim
 
 **Q: What is this Github Repository for?**
 
-A: This repository is for people curious to research my modpack, as well as for references for applications like [Pack[OP]Dater](https://github.com/copygirl/PackOPdater) to work.
+A: This repository is for people curious to research my modpack, as well as for references for applications like [Vice's Modpack Manager](https://github.com/ViceRabbit/Vice-Modpack_Manager) to work.
 
 **Q: How many mods are in this modpack?**
  
