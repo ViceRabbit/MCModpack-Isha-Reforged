@@ -18,11 +18,6 @@
       "p_id": "248787",
       "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686482/file",
       "server": true, "client": true, "optional": false
-    }, {      
-      "name": "Art of Forging: A Tetra Addon", "version": "1.4.7",
-      "p_id": "596955",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon/download/3858270/file",
-      "server": true, "client": true, "optional": false
     }, {            
       "name": "Artifacts", "version": "4.0.7",
       "p_id": "312353",
@@ -84,9 +79,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/collective/download/3822132/file",
       "server": true, "client": true, "optional": false
     }, {                
-      "name": "Compat O' Plenty", "version": "1.5.1",
+      "name": "Compat O' Plenty", "version": "1.5.2",
       "p_id": "558850",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty/download/3786015/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty/download/3865165/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "Connectivity[Forge/Fabric]", "version": "3.2",
