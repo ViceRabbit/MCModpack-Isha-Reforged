@@ -129,9 +129,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/expandability/download/3678612/file",
       "server": true, "client": true, "optional": false
     }, {        
-      "name": "FancyMenu [Forge]", "version": "2.9.0",
+      "name": "FancyMenu [Forge]", "version": "2.10.1",
       "p_id": "367706",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3851940/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3868435/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Farmer's Delight", "version": "1.1.2",
@@ -249,9 +249,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/sit/download/3723461/file",
       "server": true, "client": true, "optional": false
     }, {            
-      "name": "Supplementaries", "version": "1.4.6",
+      "name": "Supplementaries", "version": "1.4.8",
       "p_id": "412082",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3853896/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries/download/3871187/file",
       "server": true, "client": true, "optional": false
     }, {           
       "name": "TerraBlender (Forge)", "version": "1.1.0.102",
