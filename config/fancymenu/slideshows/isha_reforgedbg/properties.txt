@@ -1,0 +1,12 @@
+type = slideshow
+
+
+slideshow-meta {
+   name = isha_reforgedbg
+   width = 1920
+   height = 1080
+   x = 0
+   y = 0
+   duration = 25
+   fadespeed = 9.0
+}

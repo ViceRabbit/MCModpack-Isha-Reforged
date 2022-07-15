@@ -1,0 +1,106 @@
+type = menu
+
+customization-meta {
+  identifier = skinconfigpage
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = -100
+  action = addtext
+  actionid = 6266ff2f-4a88-4ad2-b3aa-b9826c83747c1653164827589
+  y = 30
+  scale = 1.5
+  alignment = left
+  value = Custom Skin Configuration
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = -99
+  width = 187
+  actionid = a82b0b19-07b3-46dc-8e69-ba5dfaf451fc1653166285175
+  action = addbutton
+  y = 11
+  label = Go back to menu!
+  value = net.minecraft.client.gui.screens.TitleScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  label = Get/Change Skin! (ely.by)
+  loopbackgroundanimations = true
+  hoverlabel = Get/Change Skin! (ely.by)
+  x = -103
+  width = 194
+  actionid = 4e1b4e5e-9af7-480b-8839-ef97539ce69e1653168515290
+  action = addbutton
+  y = -25
+  value = https://ely.by/
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -145
+  action = addtext
+  actionid = 6a0ea242-dd9a-496d-870e-d3544164235a1653168663933
+  y = -85
+  scale = 1.0
+  alignment = left
+  value = [ONLY FOR CRACKED]: elyby (ely.by) is utilized for skins.
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -125
+  action = addtext
+  actionid = 543845a5-2128-4d56-8f3c-0bf496effa351653168688180
+  y = -69
+  scale = 1.0
+  alignment = left
+  value = Sign up in ely.by with your MINECRAFT username
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -157
+  action = addtext
+  actionid = 989fcf02-7fc6-4be2-a301-e882516723101653168755271
+  y = -52
+  scale = 1.0
+  alignment = left
+  value = Once signed up, you can change your skins from that website!
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -106
+  action = addtext
+  actionid = ff6b6abd-2141-441d-a72f-2e555e866cc41653169194985
+  y = -39
+  scale = 1.0
+  alignment = left
+  value = ask vice if u dont know what ur doing lol
+}
+
