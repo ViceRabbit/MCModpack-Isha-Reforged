@@ -1,3 +1,0 @@
-identifier = skinconfigpage
-title = 
-allowesc = true
