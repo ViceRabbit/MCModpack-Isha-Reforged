@@ -129,9 +129,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/expandability/download/3678612/file",
       "server": true, "client": true, "optional": false
     }, {        
-      "name": "FancyMenu [Forge]", "version": "2.10.1",
+      "name": "FancyMenu [Forge]", "version": "2.11.0",
       "p_id": "367706",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3868435/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fancymenu-forge/download/3876120/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Farmer's Delight", "version": "1.1.2",
