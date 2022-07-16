@@ -58,11 +58,6 @@
       "p_id": "407206",
       "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads/download/3850450/file",
       "server": false, "client": true, "optional": false
-    }, {          
-      "name": "Chipped", "version": "1.2.1",
-      "p_id": "456956",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/chipped/download/3748664/file",
-      "server": true, "client": true, "optional": false
     }, {           
       "name": "Citadel", "version": "1.11.3",
       "p_id": "331936",
@@ -107,11 +102,6 @@
       "name": "CustomSkinLoader", "version": "14.13",
       "p_id": "286924",
       "url": "https://www.curseforge.com/minecraft/mc-mods/customskinloader/download/3695975/file",
-      "server": false, "client": true, "optional": false
-    }, {        
-      "name": "Ding", "version": "1.3.0",
-      "p_id": "231275",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/ding/download/3548400/file",
       "server": false, "client": true, "optional": false
     }, {           
       "name": "Drippy Loading Screen [Forge]", "version": "1.6.4",
