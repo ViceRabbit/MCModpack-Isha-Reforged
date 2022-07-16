@@ -158,11 +158,6 @@
       "p_id": "238222",
       "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/3847103/file",
       "server": true, "client": true, "optional": false
-    }, {              
-      "name": "Just Zoom [Forge]", "version": "1.0.1",
-      "p_id": "561885",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge/download/3601619/file",
-      "server": false, "client": true, "optional": false
     }, {            
       "name": "Konkrete [Forge]", "version": "1.3.3",
       "p_id": "410295",
@@ -183,6 +178,11 @@
       "p_id": "460819",
       "url": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/download/3544496/file",
       "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Magnesium/Rubidium Extras", "version": "1.3.1",
+      "p_id": "558905",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/download/3771366/file",
+      "server": false, "client": true, "optional": false
     }, {           
       "name": "Moonlight Lib", "version": "1.17.9",
       "p_id": "499980",
