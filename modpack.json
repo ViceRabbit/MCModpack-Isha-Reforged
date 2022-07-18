@@ -69,9 +69,9 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config/download/3782776/file",
       "server": false, "client": true, "optional": false
     }, {           
-      "name": "Collective (Forge)", "version": "4.28",
+      "name": "Collective (Forge)", "version": "4.30",
       "p_id": "342584",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/collective/download/3822132/file",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/collective/download/3879491/file",
       "server": true, "client": true, "optional": false
     }, {                
       "name": "Compat O' Plenty", "version": "1.5.2",
